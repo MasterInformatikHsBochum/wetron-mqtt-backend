@@ -1,5 +1,17 @@
 # wetron-mqtt-backend
 
+# Installation of dependencies
+
+```bash
+apt-get install build-essential gcc make cmake cmake-gui cmake-curses-gui
+```
+
+# Optional Installation of dependencies for documentation
+
+```bash
+apt-get install doxygen graphviz
+```
+
 ## Installation of paho.mqtt.c and paho.mqtt.cpp
 
 ```bash
