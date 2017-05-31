@@ -1,6 +1,6 @@
 # wetron-mqtt-backend
 
-# Installation of paho.mqtt.c and paho.mqtt.cpp
+## Installation of paho.mqtt.c and paho.mqtt.cpp
 
 git clone https://github.com/eclipse/paho.mqtt.cpp
 cd paho.mqtt.cpp
