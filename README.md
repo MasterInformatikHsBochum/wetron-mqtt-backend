@@ -1,4 +1,4 @@
-# wetron-mqtt-backend
+# WeTron MQTT Backend
 
 ## Installation of dependencies
 
