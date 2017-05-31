@@ -2,6 +2,7 @@
 
 ## Installation of paho.mqtt.c and paho.mqtt.cpp
 
+```bash
 git clone https://github.com/eclipse/paho.mqtt.cpp
 cd paho.mqtt.cpp
 ./install_paho_mqtt_c.sh
@@ -12,3 +13,4 @@ make
 sudo make install
 
 sudo ldconfig
+```
