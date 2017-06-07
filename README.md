@@ -35,3 +35,11 @@ sudo make install
 
 sudo ldconfig
 ```
+
+## Test of MQTT Go client
+
+```bash
+cd go
+make
+./app
+```
